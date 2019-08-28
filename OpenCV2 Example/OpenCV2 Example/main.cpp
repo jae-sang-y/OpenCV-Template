@@ -2,7 +2,7 @@
 #include <iostream>
 
 
-//Debug x64 È¤Àº Release x65 »ç¿ë ±ÇÀå
+//Debug x64 ÃˆÂ¤Ã€Âº Release x64 Â»Ã§Â¿Ã« Â±Ã‡Ã€Ã¥
 int main() {
 	std::cout << "Hello opencv world!";
 	return 0;
