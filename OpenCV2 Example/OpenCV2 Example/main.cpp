@@ -2,8 +2,8 @@
 #include <iostream>
 
 
-//Debug x64 È¤Àº Release x64 »ç¿ë ±ÇÀå
+//Debug x64 혹은 Release x64 권장
 int main() {
-	std::cout << "Hello opencv world!";
+	std::cout << "Hello opencv world!" << CV_VERSION << std::endl;
 	return 0;
 }
